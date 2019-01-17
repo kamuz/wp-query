@@ -9,7 +9,7 @@
  */
 
 /**
- * Custom Loop shortcode [wp_query_example]
+ * Custom Loop shortcode [wp_query_example cat="3, 4"]
  */
 function custom_loop_pre_shortcode_wp_query($atts){
 
