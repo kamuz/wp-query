@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Custom Loop with WP_Query class
+ * Plugin Name: KMZ Custom Loop with WP_Query class
  * Description: Demonstrate how to customize the WordPress Loop WP_Query class
  * Plugin URL: https://wpninja.pp.ua
  * Author: Vladimir Kamuz
